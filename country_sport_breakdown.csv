@@ -1,0 +1,693 @@
+country,country_code,sport,medal_type,count
+AIN,AIN,Rowing,Silver Medal,1
+AIN,AIN,Tennis,Silver Medal,1
+AIN,AIN,Trampoline Gymnastics,Gold Medal,1
+AIN,AIN,Trampoline Gymnastics,Silver Medal,1
+AIN,AIN,Weightlifting,Bronze Medal,1
+Albania,ALB,Wrestling,Bronze Medal,2
+Algeria,ALG,Artistic Gymnastics,Gold Medal,1
+Algeria,ALG,Athletics,Bronze Medal,1
+Algeria,ALG,Boxing,Gold Medal,1
+Argentina,ARG,Cycling BMX Freestyle,Gold Medal,1
+Argentina,ARG,Hockey,Bronze Medal,1
+Argentina,ARG,Sailing,Silver Medal,1
+Armenia,ARM,Artistic Gymnastics,Silver Medal,1
+Armenia,ARM,Weightlifting,Silver Medal,1
+Armenia,ARM,Wrestling,Bronze Medal,1
+Armenia,ARM,Wrestling,Silver Medal,1
+Australia,AUS,Athletics,Bronze Medal,4
+Australia,AUS,Athletics,Gold Medal,1
+Australia,AUS,Athletics,Silver Medal,2
+Australia,AUS,Basketball,Bronze Medal,1
+Australia,AUS,Boxing,Bronze Medal,2
+Australia,AUS,Canoe Slalom,Gold Medal,3
+Australia,AUS,Canoe Sprint,Bronze Medal,1
+Australia,AUS,Canoe Sprint,Silver Medal,1
+Australia,AUS,Cycling BMX Freestyle,Bronze Medal,1
+Australia,AUS,Cycling BMX Racing,Gold Medal,1
+Australia,AUS,Cycling Road,Gold Medal,1
+Australia,AUS,Cycling Track,Bronze Medal,2
+Australia,AUS,Cycling Track,Gold Medal,1
+Australia,AUS,Cycling Track,Silver Medal,2
+Australia,AUS,Diving,Silver Medal,1
+Australia,AUS,Equestrian,Silver Medal,1
+Australia,AUS,Marathon Swimming,Silver Medal,1
+Australia,AUS,Rowing,Bronze Medal,1
+Australia,AUS,Sailing,Gold Medal,1
+Australia,AUS,Sailing,Silver Medal,1
+Australia,AUS,Shooting,Bronze Medal,1
+Australia,AUS,Skateboarding,Gold Medal,2
+Australia,AUS,Surfing,Silver Medal,1
+Australia,AUS,Swimming,Bronze Medal,3
+Australia,AUS,Swimming,Gold Medal,7
+Australia,AUS,Swimming,Silver Medal,8
+Australia,AUS,Tennis,Gold Medal,1
+Australia,AUS,Water Polo,Silver Medal,1
+Austria,AUT,Judo,Bronze Medal,1
+Austria,AUT,Sailing,Gold Medal,2
+Austria,AUT,Sport Climbing,Bronze Medal,2
+Azerbaijan,AZE,Boxing,Silver Medal,1
+Azerbaijan,AZE,Judo,Gold Medal,2
+Azerbaijan,AZE,Taekwondo,Silver Medal,1
+Azerbaijan,AZE,Wrestling,Bronze Medal,3
+Bahrain,BRN,Athletics,Gold Medal,1
+Bahrain,BRN,Athletics,Silver Medal,1
+Bahrain,BRN,Weightlifting,Bronze Medal,1
+Bahrain,BRN,Wrestling,Gold Medal,1
+Belgium,BEL,Athletics,Bronze Medal,1
+Belgium,BEL,Athletics,Gold Medal,1
+Belgium,BEL,Athletics,Silver Medal,1
+Belgium,BEL,Cycling Road,Bronze Medal,2
+Belgium,BEL,Cycling Road,Gold Medal,2
+Belgium,BEL,Cycling Track,Bronze Medal,1
+Belgium,BEL,Judo,Bronze Medal,1
+Belgium,BEL,Taekwondo,Bronze Medal,1
+Botswana,BOT,Athletics,Gold Medal,1
+Botswana,BOT,Athletics,Silver Medal,1
+Brazil,BRA,Artistic Gymnastics,Bronze Medal,1
+Brazil,BRA,Artistic Gymnastics,Gold Medal,1
+Brazil,BRA,Artistic Gymnastics,Silver Medal,2
+Brazil,BRA,Athletics,Bronze Medal,1
+Brazil,BRA,Athletics,Silver Medal,1
+Brazil,BRA,Beach Volleyball,Gold Medal,1
+Brazil,BRA,Boxing,Bronze Medal,1
+Brazil,BRA,Canoe Sprint,Silver Medal,1
+Brazil,BRA,Football,Silver Medal,1
+Brazil,BRA,Judo,Bronze Medal,2
+Brazil,BRA,Judo,Gold Medal,1
+Brazil,BRA,Judo,Silver Medal,1
+Brazil,BRA,Skateboarding,Bronze Medal,2
+Brazil,BRA,Surfing,Bronze Medal,1
+Brazil,BRA,Surfing,Silver Medal,1
+Brazil,BRA,Taekwondo,Bronze Medal,1
+Brazil,BRA,Volleyball,Bronze Medal,1
+Bulgaria,BUL,Boxing,Bronze Medal,1
+Bulgaria,BUL,Rhythmic Gymnastics,Silver Medal,1
+Bulgaria,BUL,Taekwondo,Bronze Medal,1
+Bulgaria,BUL,Weightlifting,Bronze Medal,1
+Bulgaria,BUL,Weightlifting,Gold Medal,1
+Bulgaria,BUL,Wrestling,Gold Medal,2
+Cabo Verde,CPV,Boxing,Bronze Medal,1
+Canada,CAN,Athletics,Bronze Medal,1
+Canada,CAN,Athletics,Gold Medal,3
+Canada,CAN,Athletics,Silver Medal,1
+Canada,CAN,Beach Volleyball,Silver Medal,1
+Canada,CAN,Boxing,Bronze Medal,1
+Canada,CAN,Breaking,Gold Medal,1
+Canada,CAN,Canoe Sprint,Bronze Medal,1
+Canada,CAN,Canoe Sprint,Gold Medal,1
+Canada,CAN,Diving,Bronze Medal,1
+Canada,CAN,Fencing,Bronze Medal,1
+Canada,CAN,Judo,Gold Medal,1
+Canada,CAN,Rowing,Silver Medal,1
+Canada,CAN,Rugby Sevens,Silver Medal,1
+Canada,CAN,Swimming,Bronze Medal,3
+Canada,CAN,Swimming,Gold Medal,3
+Canada,CAN,Swimming,Silver Medal,2
+Canada,CAN,Taekwondo,Bronze Medal,1
+Canada,CAN,Tennis,Bronze Medal,1
+Canada,CAN,Trampoline Gymnastics,Bronze Medal,1
+Canada,CAN,Weightlifting,Silver Medal,1
+Chile,CHI,Shooting,Gold Medal,1
+Chile,CHI,Wrestling,Silver Medal,1
+China,CHN,Archery,Silver Medal,1
+China,CHN,Artistic Gymnastics,Bronze Medal,2
+China,CHN,Artistic Gymnastics,Gold Medal,2
+China,CHN,Artistic Gymnastics,Silver Medal,5
+China,CHN,Artistic Swimming,Gold Medal,2
+China,CHN,Athletics,Bronze Medal,2
+China,CHN,Athletics,Gold Medal,1
+China,CHN,Athletics,Silver Medal,1
+China,CHN,Badminton,Gold Medal,2
+China,CHN,Badminton,Silver Medal,3
+China,CHN,Boxing,Gold Medal,3
+China,CHN,Boxing,Silver Medal,2
+China,CHN,Breaking,Bronze Medal,1
+China,CHN,Canoe Sprint,Gold Medal,2
+China,CHN,Cycling BMX Freestyle,Gold Medal,1
+China,CHN,Diving,Bronze Medal,1
+China,CHN,Diving,Gold Medal,8
+China,CHN,Diving,Silver Medal,2
+China,CHN,Golf,Bronze Medal,1
+China,CHN,Hockey,Silver Medal,1
+China,CHN,Judo,Bronze Medal,1
+China,CHN,Rhythmic Gymnastics,Gold Medal,1
+China,CHN,Shooting,Bronze Medal,3
+China,CHN,Shooting,Gold Medal,5
+China,CHN,Shooting,Silver Medal,2
+China,CHN,Sport Climbing,Silver Medal,2
+China,CHN,Swimming,Bronze Medal,7
+China,CHN,Swimming,Gold Medal,2
+China,CHN,Swimming,Silver Medal,3
+China,CHN,Table Tennis,Gold Medal,5
+China,CHN,Table Tennis,Silver Medal,1
+China,CHN,Taekwondo,Bronze Medal,1
+China,CHN,Taekwondo,Silver Medal,1
+China,CHN,Tennis,Gold Medal,1
+China,CHN,Tennis,Silver Medal,1
+China,CHN,Trampoline Gymnastics,Bronze Medal,1
+China,CHN,Trampoline Gymnastics,Silver Medal,1
+China,CHN,Weightlifting,Gold Medal,5
+China,CHN,Wrestling,Bronze Medal,4
+China,CHN,Wrestling,Silver Medal,1
+Chinese Taipei,TPE,Artistic Gymnastics,Bronze Medal,1
+Chinese Taipei,TPE,Badminton,Gold Medal,1
+Chinese Taipei,TPE,Boxing,Bronze Medal,2
+Chinese Taipei,TPE,Boxing,Gold Medal,1
+Chinese Taipei,TPE,Shooting,Bronze Medal,1
+Chinese Taipei,TPE,Weightlifting,Bronze Medal,1
+Colombia,COL,Artistic Gymnastics,Silver Medal,1
+Colombia,COL,Weightlifting,Silver Medal,2
+Colombia,COL,Wrestling,Bronze Medal,1
+Croatia,CRO,Athletics,Bronze Medal,1
+Croatia,CRO,Judo,Gold Medal,1
+Croatia,CRO,Rowing,Gold Medal,1
+Croatia,CRO,Shooting,Bronze Medal,1
+Croatia,CRO,Taekwondo,Bronze Medal,1
+Croatia,CRO,Tennis,Silver Medal,1
+Croatia,CRO,Water Polo,Silver Medal,1
+Cuba,CUB,Boxing,Bronze Medal,1
+Cuba,CUB,Boxing,Gold Medal,1
+Cuba,CUB,Canoe Sprint,Bronze Medal,1
+Cuba,CUB,Taekwondo,Bronze Medal,1
+Cuba,CUB,Wrestling,Bronze Medal,3
+Cuba,CUB,Wrestling,Gold Medal,1
+Cuba,CUB,Wrestling,Silver Medal,1
+Cyprus,CYP,Sailing,Silver Medal,1
+Czechia,CZE,Athletics,Bronze Medal,1
+Czechia,CZE,Canoe Sprint,Gold Medal,2
+Czechia,CZE,Fencing,Bronze Medal,1
+Czechia,CZE,Tennis,Gold Medal,1
+Côte d'Ivoire,CIV,Taekwondo,Bronze Medal,1
+DPR Korea,PRK,Boxing,Bronze Medal,1
+DPR Korea,PRK,Diving,Bronze Medal,1
+DPR Korea,PRK,Diving,Silver Medal,1
+DPR Korea,PRK,Table Tennis,Silver Medal,1
+DPR Korea,PRK,Wrestling,Bronze Medal,2
+Denmark,DEN,Badminton,Gold Medal,1
+Denmark,DEN,Canoe Sprint,Bronze Medal,1
+Denmark,DEN,Cycling Track,Bronze Medal,1
+Denmark,DEN,Equestrian,Silver Medal,1
+Denmark,DEN,Handball,Bronze Medal,1
+Denmark,DEN,Handball,Gold Medal,1
+Denmark,DEN,Sailing,Silver Medal,1
+Denmark,DEN,Taekwondo,Bronze Medal,1
+Denmark,DEN,Wrestling,Bronze Medal,1
+Dominica,DMA,Athletics,Gold Medal,1
+Dominican Republic,DOM,Athletics,Gold Medal,1
+Dominican Republic,DOM,Boxing,Bronze Medal,2
+EOR,EOR,Boxing,Bronze Medal,1
+Ecuador,ECU,Athletics,Gold Medal,1
+Ecuador,ECU,Athletics,Silver Medal,1
+Ecuador,ECU,Weightlifting,Bronze Medal,2
+Ecuador,ECU,Wrestling,Silver Medal,1
+Egypt,EGY,Fencing,Bronze Medal,1
+Egypt,EGY,Modern Pentathlon,Gold Medal,1
+Egypt,EGY,Weightlifting,Silver Medal,1
+Ethiopia,ETH,Athletics,Gold Medal,1
+Ethiopia,ETH,Athletics,Silver Medal,3
+Fiji,FIJ,Rugby Sevens,Silver Medal,1
+France,FRA,3x3 Basketball,Silver Medal,1
+France,FRA,Archery,Bronze Medal,1
+France,FRA,Archery,Silver Medal,1
+France,FRA,Athletics,Silver Medal,1
+France,FRA,Basketball,Silver Medal,2
+France,FRA,Boxing,Bronze Medal,1
+France,FRA,Boxing,Silver Medal,2
+France,FRA,Breaking,Silver Medal,1
+France,FRA,Canoe Slalom,Gold Medal,1
+France,FRA,Canoe Slalom,Silver Medal,2
+France,FRA,Cycling BMX Freestyle,Bronze Medal,1
+France,FRA,Cycling BMX Racing,Bronze Medal,1
+France,FRA,Cycling BMX Racing,Gold Medal,1
+France,FRA,Cycling BMX Racing,Silver Medal,1
+France,FRA,Cycling Mountain Bike,Gold Medal,1
+France,FRA,Cycling Mountain Bike,Silver Medal,1
+France,FRA,Cycling Road,Bronze Medal,1
+France,FRA,Cycling Road,Silver Medal,1
+France,FRA,Cycling Track,Gold Medal,1
+France,FRA,Equestrian,Bronze Medal,1
+France,FRA,Equestrian,Silver Medal,1
+France,FRA,Fencing,Bronze Medal,2
+France,FRA,Fencing,Gold Medal,1
+France,FRA,Fencing,Silver Medal,4
+France,FRA,Football,Silver Medal,1
+France,FRA,Handball,Silver Medal,1
+France,FRA,Judo,Bronze Medal,6
+France,FRA,Judo,Gold Medal,2
+France,FRA,Judo,Silver Medal,2
+France,FRA,Modern Pentathlon,Silver Medal,1
+France,FRA,Rugby Sevens,Gold Medal,1
+France,FRA,Sailing,Bronze Medal,1
+France,FRA,Sailing,Silver Medal,1
+France,FRA,Shooting,Silver Medal,1
+France,FRA,Surfing,Bronze Medal,1
+France,FRA,Surfing,Gold Medal,1
+France,FRA,Swimming,Bronze Medal,2
+France,FRA,Swimming,Gold Medal,4
+France,FRA,Swimming,Silver Medal,1
+France,FRA,Table Tennis,Bronze Medal,2
+France,FRA,Taekwondo,Bronze Medal,1
+France,FRA,Taekwondo,Gold Medal,1
+France,FRA,Triathlon,Bronze Medal,1
+France,FRA,Triathlon,Gold Medal,1
+France,FRA,Volleyball,Gold Medal,1
+Georgia,GEO,Boxing,Bronze Medal,1
+Georgia,GEO,Judo,Gold Medal,1
+Georgia,GEO,Judo,Silver Medal,2
+Georgia,GEO,Weightlifting,Gold Medal,1
+Georgia,GEO,Wrestling,Gold Medal,1
+Georgia,GEO,Wrestling,Silver Medal,1
+Germany,GER,3x3 Basketball,Gold Medal,1
+Germany,GER,Archery,Silver Medal,1
+Germany,GER,Athletics,Bronze Medal,1
+Germany,GER,Athletics,Gold Medal,1
+Germany,GER,Athletics,Silver Medal,2
+Germany,GER,Beach Volleyball,Silver Medal,1
+Germany,GER,Boxing,Bronze Medal,1
+Germany,GER,Canoe Slalom,Bronze Medal,1
+Germany,GER,Canoe Slalom,Silver Medal,1
+Germany,GER,Canoe Sprint,Bronze Medal,1
+Germany,GER,Canoe Sprint,Gold Medal,2
+Germany,GER,Canoe Sprint,Silver Medal,1
+Germany,GER,Cycling Track,Bronze Medal,1
+Germany,GER,Cycling Track,Silver Medal,1
+Germany,GER,Equestrian,Gold Medal,4
+Germany,GER,Equestrian,Silver Medal,1
+Germany,GER,Football,Bronze Medal,1
+Germany,GER,Golf,Silver Medal,1
+Germany,GER,Handball,Silver Medal,1
+Germany,GER,Hockey,Silver Medal,1
+Germany,GER,Judo,Silver Medal,1
+Germany,GER,Marathon Swimming,Silver Medal,1
+Germany,GER,Rhythmic Gymnastics,Gold Medal,1
+Germany,GER,Rowing,Bronze Medal,1
+Germany,GER,Rowing,Gold Medal,1
+Germany,GER,Swimming,Bronze Medal,1
+Germany,GER,Swimming,Gold Medal,1
+Germany,GER,Triathlon,Gold Medal,1
+Great Britain,GBR,Artistic Gymnastics,Bronze Medal,2
+Great Britain,GBR,Artistic Swimming,Silver Medal,1
+Great Britain,GBR,Athletics,Bronze Medal,5
+Great Britain,GBR,Athletics,Gold Medal,1
+Great Britain,GBR,Athletics,Silver Medal,4
+Great Britain,GBR,Boxing,Bronze Medal,1
+Great Britain,GBR,Canoe Slalom,Bronze Medal,2
+Great Britain,GBR,Canoe Slalom,Silver Medal,2
+Great Britain,GBR,Cycling BMX Freestyle,Silver Medal,1
+Great Britain,GBR,Cycling Mountain Bike,Gold Medal,1
+Great Britain,GBR,Cycling Road,Silver Medal,1
+Great Britain,GBR,Cycling Track,Bronze Medal,4
+Great Britain,GBR,Cycling Track,Gold Medal,1
+Great Britain,GBR,Cycling Track,Silver Medal,3
+Great Britain,GBR,Diving,Bronze Medal,4
+Great Britain,GBR,Diving,Silver Medal,1
+Great Britain,GBR,Equestrian,Bronze Medal,3
+Great Britain,GBR,Equestrian,Gold Medal,2
+Great Britain,GBR,Golf,Silver Medal,1
+Great Britain,GBR,Rowing,Bronze Medal,3
+Great Britain,GBR,Rowing,Gold Medal,3
+Great Britain,GBR,Rowing,Silver Medal,2
+Great Britain,GBR,Sailing,Bronze Medal,1
+Great Britain,GBR,Sailing,Gold Medal,1
+Great Britain,GBR,Shooting,Gold Medal,1
+Great Britain,GBR,Shooting,Silver Medal,1
+Great Britain,GBR,Skateboarding,Bronze Medal,1
+Great Britain,GBR,Sport Climbing,Gold Medal,1
+Great Britain,GBR,Swimming,Gold Medal,1
+Great Britain,GBR,Swimming,Silver Medal,4
+Great Britain,GBR,Taekwondo,Silver Medal,1
+Great Britain,GBR,Trampoline Gymnastics,Gold Medal,1
+Great Britain,GBR,Triathlon,Bronze Medal,2
+Great Britain,GBR,Triathlon,Gold Medal,1
+Great Britain,GBR,Weightlifting,Bronze Medal,1
+Greece,GRE,Artistic Gymnastics,Bronze Medal,1
+Greece,GRE,Athletics,Bronze Medal,1
+Greece,GRE,Athletics,Gold Medal,1
+Greece,GRE,Judo,Bronze Medal,1
+Greece,GRE,Rowing,Bronze Medal,2
+Greece,GRE,Swimming,Silver Medal,1
+Greece,GRE,Wrestling,Bronze Medal,1
+Grenada,GRN,Athletics,Bronze Medal,2
+Guatemala,GUA,Shooting,Bronze Medal,1
+Guatemala,GUA,Shooting,Gold Medal,1
+"Hong Kong, China",HKG,Fencing,Gold Medal,2
+"Hong Kong, China",HKG,Swimming,Bronze Medal,2
+Hungary,HUN,Athletics,Silver Medal,1
+Hungary,HUN,Canoe Sprint,Bronze Medal,3
+Hungary,HUN,Canoe Sprint,Silver Medal,4
+Hungary,HUN,Fencing,Bronze Medal,1
+Hungary,HUN,Fencing,Gold Medal,1
+Hungary,HUN,Fencing,Silver Medal,1
+Hungary,HUN,Marathon Swimming,Bronze Medal,1
+Hungary,HUN,Marathon Swimming,Gold Medal,1
+Hungary,HUN,Modern Pentathlon,Gold Medal,1
+Hungary,HUN,Shooting,Bronze Medal,1
+Hungary,HUN,Swimming,Gold Medal,2
+Hungary,HUN,Swimming,Silver Medal,1
+Hungary,HUN,Taekwondo,Gold Medal,1
+IR Iran,IRI,Taekwondo,Bronze Medal,1
+IR Iran,IRI,Taekwondo,Gold Medal,1
+IR Iran,IRI,Taekwondo,Silver Medal,2
+IR Iran,IRI,Wrestling,Bronze Medal,2
+IR Iran,IRI,Wrestling,Gold Medal,2
+IR Iran,IRI,Wrestling,Silver Medal,4
+India,IND,Athletics,Silver Medal,1
+India,IND,Hockey,Bronze Medal,1
+India,IND,Shooting,Bronze Medal,3
+India,IND,Wrestling,Bronze Medal,1
+Indonesia,INA,Badminton,Bronze Medal,1
+Indonesia,INA,Sport Climbing,Gold Medal,1
+Indonesia,INA,Weightlifting,Gold Medal,1
+Ireland,IRL,Artistic Gymnastics,Gold Medal,1
+Ireland,IRL,Boxing,Gold Medal,1
+Ireland,IRL,Rowing,Bronze Medal,1
+Ireland,IRL,Rowing,Gold Medal,1
+Ireland,IRL,Swimming,Bronze Medal,2
+Ireland,IRL,Swimming,Gold Medal,1
+Israel,ISR,Artistic Gymnastics,Silver Medal,1
+Israel,ISR,Judo,Bronze Medal,1
+Israel,ISR,Judo,Silver Medal,2
+Israel,ISR,Rhythmic Gymnastics,Silver Medal,1
+Israel,ISR,Sailing,Gold Medal,1
+Israel,ISR,Sailing,Silver Medal,1
+Italy,ITA,Artistic Gymnastics,Bronze Medal,1
+Italy,ITA,Artistic Gymnastics,Gold Medal,1
+Italy,ITA,Artistic Gymnastics,Silver Medal,1
+Italy,ITA,Athletics,Bronze Medal,2
+Italy,ITA,Athletics,Silver Medal,1
+Italy,ITA,Canoe Slalom,Gold Medal,1
+Italy,ITA,Canoe Sprint,Silver Medal,1
+Italy,ITA,Cycling Road,Silver Medal,1
+Italy,ITA,Cycling Track,Bronze Medal,1
+Italy,ITA,Cycling Track,Gold Medal,1
+Italy,ITA,Cycling Track,Silver Medal,1
+Italy,ITA,Fencing,Bronze Medal,1
+Italy,ITA,Fencing,Gold Medal,1
+Italy,ITA,Fencing,Silver Medal,3
+Italy,ITA,Judo,Gold Medal,1
+Italy,ITA,Marathon Swimming,Bronze Medal,1
+Italy,ITA,Modern Pentathlon,Bronze Medal,1
+Italy,ITA,Rhythmic Gymnastics,Bronze Medal,2
+Italy,ITA,Rowing,Silver Medal,2
+Italy,ITA,Sailing,Gold Medal,2
+Italy,ITA,Shooting,Bronze Medal,1
+Italy,ITA,Shooting,Gold Medal,1
+Italy,ITA,Shooting,Silver Medal,2
+Italy,ITA,Swimming,Bronze Medal,2
+Italy,ITA,Swimming,Gold Medal,2
+Italy,ITA,Swimming,Silver Medal,1
+Italy,ITA,Taekwondo,Bronze Medal,1
+Italy,ITA,Tennis,Bronze Medal,1
+Italy,ITA,Tennis,Gold Medal,1
+Italy,ITA,Volleyball,Gold Medal,1
+Italy,ITA,Weightlifting,Bronze Medal,1
+Jamaica,JAM,Athletics,Bronze Medal,2
+Jamaica,JAM,Athletics,Gold Medal,1
+Jamaica,JAM,Athletics,Silver Medal,3
+Japan,JPN,Artistic Gymnastics,Bronze Medal,1
+Japan,JPN,Artistic Gymnastics,Gold Medal,3
+Japan,JPN,Athletics,Gold Medal,1
+Japan,JPN,Badminton,Bronze Medal,2
+Japan,JPN,Breaking,Gold Medal,1
+Japan,JPN,Diving,Silver Medal,1
+Japan,JPN,Equestrian,Bronze Medal,1
+Japan,JPN,Fencing,Bronze Medal,2
+Japan,JPN,Fencing,Gold Medal,2
+Japan,JPN,Fencing,Silver Medal,1
+Japan,JPN,Golf,Bronze Medal,1
+Japan,JPN,Judo,Bronze Medal,3
+Japan,JPN,Judo,Gold Medal,3
+Japan,JPN,Judo,Silver Medal,2
+Japan,JPN,Modern Pentathlon,Silver Medal,1
+Japan,JPN,Sailing,Silver Medal,1
+Japan,JPN,Skateboarding,Gold Medal,2
+Japan,JPN,Skateboarding,Silver Medal,2
+Japan,JPN,Sport Climbing,Silver Medal,1
+Japan,JPN,Swimming,Silver Medal,1
+Japan,JPN,Table Tennis,Bronze Medal,1
+Japan,JPN,Table Tennis,Silver Medal,1
+Japan,JPN,Wrestling,Bronze Medal,2
+Japan,JPN,Wrestling,Gold Medal,8
+Japan,JPN,Wrestling,Silver Medal,1
+Jordan,JOR,Taekwondo,Silver Medal,1
+Kazakhstan,KAZ,Artistic Gymnastics,Silver Medal,1
+Kazakhstan,KAZ,Boxing,Bronze Medal,1
+Kazakhstan,KAZ,Boxing,Silver Medal,1
+Kazakhstan,KAZ,Judo,Bronze Medal,1
+Kazakhstan,KAZ,Judo,Gold Medal,1
+Kazakhstan,KAZ,Shooting,Bronze Medal,1
+Kazakhstan,KAZ,Wrestling,Silver Medal,1
+Kenya,KEN,Athletics,Bronze Medal,5
+Kenya,KEN,Athletics,Gold Medal,4
+Kenya,KEN,Athletics,Silver Medal,2
+Korea,KOR,Archery,Bronze Medal,1
+Korea,KOR,Archery,Gold Medal,5
+Korea,KOR,Archery,Silver Medal,1
+Korea,KOR,Badminton,Gold Medal,1
+Korea,KOR,Badminton,Silver Medal,1
+Korea,KOR,Boxing,Bronze Medal,1
+Korea,KOR,Fencing,Gold Medal,2
+Korea,KOR,Fencing,Silver Medal,1
+Korea,KOR,Judo,Bronze Medal,3
+Korea,KOR,Judo,Silver Medal,2
+Korea,KOR,Modern Pentathlon,Bronze Medal,1
+Korea,KOR,Shooting,Gold Medal,3
+Korea,KOR,Shooting,Silver Medal,3
+Korea,KOR,Swimming,Bronze Medal,1
+Korea,KOR,Table Tennis,Bronze Medal,2
+Korea,KOR,Taekwondo,Bronze Medal,1
+Korea,KOR,Taekwondo,Gold Medal,2
+Korea,KOR,Weightlifting,Silver Medal,1
+Kosovo,KOS,Judo,Bronze Medal,1
+Kosovo,KOS,Judo,Silver Medal,1
+Kyrgyzstan,KGZ,Boxing,Silver Medal,1
+Kyrgyzstan,KGZ,Wrestling,Bronze Medal,4
+Kyrgyzstan,KGZ,Wrestling,Silver Medal,1
+Lithuania,LTU,3x3 Basketball,Bronze Medal,1
+Lithuania,LTU,Athletics,Silver Medal,1
+Lithuania,LTU,Breaking,Silver Medal,1
+Lithuania,LTU,Rowing,Bronze Medal,1
+Malaysia,MAS,Badminton,Bronze Medal,2
+Mexico,MEX,Archery,Bronze Medal,1
+Mexico,MEX,Boxing,Silver Medal,1
+Mexico,MEX,Diving,Bronze Medal,1
+Mexico,MEX,Diving,Silver Medal,1
+Mexico,MEX,Judo,Silver Medal,1
+Mongolia,MGL,Judo,Silver Medal,1
+Morocco,MAR,Athletics,Gold Medal,1
+Morocco,MAR,Football,Bronze Medal,1
+Netherlands,NED,3x3 Basketball,Gold Medal,1
+Netherlands,NED,Artistic Swimming,Bronze Medal,1
+Netherlands,NED,Athletics,Bronze Medal,3
+Netherlands,NED,Athletics,Gold Medal,2
+Netherlands,NED,Athletics,Silver Medal,1
+Netherlands,NED,Cycling BMX Racing,Silver Medal,1
+Netherlands,NED,Cycling Road,Silver Medal,1
+Netherlands,NED,Cycling Track,Bronze Medal,1
+Netherlands,NED,Cycling Track,Gold Medal,3
+Netherlands,NED,Cycling Track,Silver Medal,1
+Netherlands,NED,Equestrian,Bronze Medal,1
+Netherlands,NED,Hockey,Gold Medal,2
+Netherlands,NED,Marathon Swimming,Gold Medal,1
+Netherlands,NED,Rowing,Bronze Medal,1
+Netherlands,NED,Rowing,Gold Medal,4
+Netherlands,NED,Rowing,Silver Medal,3
+Netherlands,NED,Sailing,Bronze Medal,2
+Netherlands,NED,Sailing,Gold Medal,2
+Netherlands,NED,Swimming,Bronze Medal,2
+Netherlands,NED,Water Polo,Bronze Medal,1
+New Zealand,NZL,Athletics,Gold Medal,1
+New Zealand,NZL,Athletics,Silver Medal,1
+New Zealand,NZL,Canoe Slalom,Gold Medal,1
+New Zealand,NZL,Canoe Sprint,Gold Medal,3
+New Zealand,NZL,Cycling Track,Bronze Medal,1
+New Zealand,NZL,Cycling Track,Gold Medal,2
+New Zealand,NZL,Cycling Track,Silver Medal,2
+New Zealand,NZL,Golf,Gold Medal,1
+New Zealand,NZL,Rowing,Bronze Medal,1
+New Zealand,NZL,Rowing,Gold Medal,1
+New Zealand,NZL,Rowing,Silver Medal,2
+New Zealand,NZL,Rugby Sevens,Gold Medal,1
+New Zealand,NZL,Sailing,Bronze Medal,1
+New Zealand,NZL,Sailing,Silver Medal,1
+New Zealand,NZL,Triathlon,Silver Medal,1
+Norway,NOR,Athletics,Gold Medal,2
+Norway,NOR,Athletics,Silver Medal,1
+Norway,NOR,Beach Volleyball,Bronze Medal,1
+Norway,NOR,Handball,Gold Medal,1
+Norway,NOR,Sailing,Bronze Medal,1
+Norway,NOR,Weightlifting,Gold Medal,1
+Norway,NOR,Wrestling,Bronze Medal,1
+Pakistan,PAK,Athletics,Gold Medal,1
+Panama,PAN,Boxing,Silver Medal,1
+Peru,PER,Sailing,Bronze Medal,1
+Philippines,PHI,Artistic Gymnastics,Gold Medal,2
+Philippines,PHI,Boxing,Bronze Medal,2
+Poland,POL,Athletics,Bronze Medal,1
+Poland,POL,Boxing,Silver Medal,1
+Poland,POL,Canoe Slalom,Silver Medal,1
+Poland,POL,Cycling Track,Silver Medal,1
+Poland,POL,Fencing,Bronze Medal,1
+Poland,POL,Rowing,Bronze Medal,1
+Poland,POL,Sport Climbing,Bronze Medal,1
+Poland,POL,Sport Climbing,Gold Medal,1
+Poland,POL,Tennis,Bronze Medal,1
+Poland,POL,Volleyball,Silver Medal,1
+Portugal,POR,Athletics,Silver Medal,1
+Portugal,POR,Cycling Track,Gold Medal,1
+Portugal,POR,Cycling Track,Silver Medal,1
+Portugal,POR,Judo,Bronze Medal,1
+Puerto Rico,PUR,Athletics,Bronze Medal,1
+Puerto Rico,PUR,Wrestling,Bronze Medal,1
+Qatar,QAT,Athletics,Bronze Medal,1
+Republic of Moldova,MDA,Canoe Sprint,Bronze Medal,1
+Republic of Moldova,MDA,Judo,Bronze Medal,2
+Republic of Moldova,MDA,Wrestling,Silver Medal,1
+Romania,ROU,Artistic Gymnastics,Bronze Medal,1
+Romania,ROU,Rowing,Gold Medal,2
+Romania,ROU,Rowing,Silver Medal,3
+Romania,ROU,Swimming,Bronze Medal,1
+Romania,ROU,Swimming,Gold Medal,1
+Romania,ROU,Weightlifting,Silver Medal,1
+Saint Lucia,LCA,Athletics,Gold Medal,1
+Saint Lucia,LCA,Athletics,Silver Medal,1
+Serbia,SRB,Basketball,Bronze Medal,1
+Serbia,SRB,Shooting,Gold Medal,1
+Serbia,SRB,Taekwondo,Silver Medal,1
+Serbia,SRB,Tennis,Gold Medal,1
+Serbia,SRB,Water Polo,Gold Medal,1
+Singapore,SGP,Sailing,Bronze Medal,1
+Slovakia,SVK,Canoe Slalom,Bronze Medal,1
+Slovenia,SLO,Judo,Gold Medal,1
+Slovenia,SLO,Sailing,Silver Medal,1
+Slovenia,SLO,Sport Climbing,Gold Medal,1
+South Africa,RSA,Athletics,Silver Medal,2
+South Africa,RSA,Cycling Mountain Bike,Bronze Medal,1
+South Africa,RSA,Rugby Sevens,Bronze Medal,1
+South Africa,RSA,Swimming,Gold Medal,1
+South Africa,RSA,Swimming,Silver Medal,1
+Spain,ESP,3x3 Basketball,Silver Medal,1
+Spain,ESP,Artistic Swimming,Bronze Medal,1
+Spain,ESP,Athletics,Bronze Medal,1
+Spain,ESP,Athletics,Gold Medal,2
+Spain,ESP,Athletics,Silver Medal,1
+Spain,ESP,Boxing,Bronze Medal,1
+Spain,ESP,Boxing,Silver Medal,1
+Spain,ESP,Canoe Slalom,Bronze Medal,1
+Spain,ESP,Canoe Sprint,Bronze Medal,2
+Spain,ESP,Football,Gold Medal,1
+Spain,ESP,Handball,Bronze Medal,1
+Spain,ESP,Judo,Bronze Medal,1
+Spain,ESP,Sailing,Gold Medal,1
+Spain,ESP,Tennis,Bronze Medal,1
+Spain,ESP,Tennis,Silver Medal,1
+Spain,ESP,Water Polo,Gold Medal,1
+Sweden,SWE,Athletics,Gold Medal,1
+Sweden,SWE,Beach Volleyball,Gold Medal,1
+Sweden,SWE,Cycling Mountain Bike,Bronze Medal,1
+Sweden,SWE,Judo,Bronze Medal,1
+Sweden,SWE,Sailing,Bronze Medal,1
+Sweden,SWE,Sailing,Silver Medal,1
+Sweden,SWE,Shooting,Silver Medal,1
+Sweden,SWE,Swimming,Gold Medal,2
+Sweden,SWE,Table Tennis,Silver Medal,2
+Switzerland,SUI,Beach Volleyball,Bronze Medal,1
+Switzerland,SUI,Cycling BMX Racing,Bronze Medal,1
+Switzerland,SUI,Equestrian,Silver Medal,1
+Switzerland,SUI,Rowing,Bronze Medal,1
+Switzerland,SUI,Shooting,Bronze Medal,1
+Switzerland,SUI,Shooting,Gold Medal,1
+Switzerland,SUI,Swimming,Bronze Medal,1
+Switzerland,SUI,Triathlon,Silver Medal,1
+Tajikistan,TJK,Boxing,Bronze Medal,1
+Tajikistan,TJK,Judo,Bronze Medal,2
+Thailand,THA,Badminton,Silver Medal,1
+Thailand,THA,Boxing,Bronze Medal,1
+Thailand,THA,Taekwondo,Gold Medal,1
+Thailand,THA,Weightlifting,Bronze Medal,1
+Thailand,THA,Weightlifting,Silver Medal,2
+Tunisia,TUN,Fencing,Silver Medal,1
+Tunisia,TUN,Taekwondo,Bronze Medal,1
+Tunisia,TUN,Taekwondo,Gold Medal,1
+Türkiye,TUR,Archery,Bronze Medal,1
+Türkiye,TUR,Boxing,Bronze Medal,1
+Türkiye,TUR,Boxing,Silver Medal,2
+Türkiye,TUR,Shooting,Silver Medal,1
+Türkiye,TUR,Taekwondo,Bronze Medal,1
+Türkiye,TUR,Wrestling,Bronze Medal,2
+Uganda,UGA,Athletics,Gold Medal,1
+Uganda,UGA,Athletics,Silver Medal,1
+Ukraine,UKR,Artistic Gymnastics,Silver Medal,1
+Ukraine,UKR,Athletics,Bronze Medal,2
+Ukraine,UKR,Athletics,Gold Medal,1
+Ukraine,UKR,Boxing,Gold Medal,1
+Ukraine,UKR,Canoe Sprint,Silver Medal,1
+Ukraine,UKR,Fencing,Bronze Medal,1
+Ukraine,UKR,Fencing,Gold Medal,1
+Ukraine,UKR,Shooting,Silver Medal,1
+Ukraine,UKR,Wrestling,Bronze Medal,1
+Ukraine,UKR,Wrestling,Silver Medal,2
+United States,USA,3x3 Basketball,Bronze Medal,1
+United States,USA,Archery,Bronze Medal,1
+United States,USA,Archery,Silver Medal,1
+United States,USA,Artistic Gymnastics,Bronze Medal,5
+United States,USA,Artistic Gymnastics,Gold Medal,3
+United States,USA,Artistic Gymnastics,Silver Medal,1
+United States,USA,Artistic Swimming,Silver Medal,1
+United States,USA,Athletics,Bronze Medal,9
+United States,USA,Athletics,Gold Medal,14
+United States,USA,Athletics,Silver Medal,11
+United States,USA,Basketball,Gold Medal,2
+United States,USA,Boxing,Bronze Medal,1
+United States,USA,Breaking,Bronze Medal,1
+United States,USA,Canoe Slalom,Bronze Medal,1
+United States,USA,Canoe Sprint,Silver Medal,1
+United States,USA,Cycling BMX Freestyle,Silver Medal,1
+United States,USA,Cycling Mountain Bike,Silver Medal,1
+United States,USA,Cycling Road,Bronze Medal,1
+United States,USA,Cycling Road,Gold Medal,1
+United States,USA,Cycling Track,Gold Medal,2
+United States,USA,Diving,Silver Medal,1
+United States,USA,Equestrian,Silver Medal,1
+United States,USA,Fencing,Bronze Medal,1
+United States,USA,Fencing,Gold Medal,2
+United States,USA,Fencing,Silver Medal,1
+United States,USA,Football,Gold Medal,1
+United States,USA,Golf,Gold Medal,1
+United States,USA,Rowing,Bronze Medal,1
+United States,USA,Rowing,Gold Medal,1
+United States,USA,Rugby Sevens,Bronze Medal,1
+United States,USA,Sailing,Bronze Medal,1
+United States,USA,Shooting,Bronze Medal,1
+United States,USA,Shooting,Gold Medal,1
+United States,USA,Shooting,Silver Medal,3
+United States,USA,Skateboarding,Bronze Medal,1
+United States,USA,Skateboarding,Silver Medal,2
+United States,USA,Sport Climbing,Bronze Medal,1
+United States,USA,Sport Climbing,Silver Medal,1
+United States,USA,Surfing,Gold Medal,1
+United States,USA,Swimming,Bronze Medal,7
+United States,USA,Swimming,Gold Medal,8
+United States,USA,Swimming,Silver Medal,13
+United States,USA,Taekwondo,Bronze Medal,1
+United States,USA,Tennis,Bronze Medal,1
+United States,USA,Tennis,Silver Medal,1
+United States,USA,Triathlon,Silver Medal,1
+United States,USA,Volleyball,Bronze Medal,1
+United States,USA,Volleyball,Silver Medal,1
+United States,USA,Water Polo,Bronze Medal,1
+United States,USA,Weightlifting,Bronze Medal,1
+United States,USA,Weightlifting,Gold Medal,1
+United States,USA,Wrestling,Bronze Medal,3
+United States,USA,Wrestling,Gold Medal,2
+United States,USA,Wrestling,Silver Medal,2
+Uzbekistan,UZB,Boxing,Gold Medal,5
+Uzbekistan,UZB,Judo,Bronze Medal,2
+Uzbekistan,UZB,Judo,Gold Medal,1
+Uzbekistan,UZB,Taekwondo,Gold Medal,1
+Uzbekistan,UZB,Taekwondo,Silver Medal,1
+Uzbekistan,UZB,Weightlifting,Silver Medal,1
+Uzbekistan,UZB,Wrestling,Bronze Medal,1
+Uzbekistan,UZB,Wrestling,Gold Medal,1
+Zambia,ZAM,Athletics,Bronze Medal,1
