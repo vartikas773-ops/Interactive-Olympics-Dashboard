@@ -18,8 +18,6 @@ streamlit run app.py
 - Choropleth map of medal counts by country
 - Country drill-down: medals-by-sport bar chart + full medallist list
 
-## Ideas to extend
-- Add a "medals per capita" or "medals per GDP" toggle (needs a population/GDP lookup table)
-- Add an athlete search box across all countries
-- Add a timeline slider using `medal_date` to replay the Games day by day
-- Deploy for free on Streamlit Community Cloud so you can share a live link
+# Interactive Olympics Dashboard
+
+🔗 **Live app:** [interactive-olympics-dashboard.streamlit.app](https://interactive-olympics-dashboard.streamlit.app)
