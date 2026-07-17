@@ -1,4 +1,6 @@
 # Paris 2024 Olympics Dashboard
+An interactive Streamlit dashboard for exploring Paris 2024 Olympic medal data. It lets users browse the overall medal standings, see how medals are distributed geographically on a world map, and dig into any country's performance by sport and individual athlete — turning a raw dataset into an easy, visual way to explore the Games.
+
 
 ## Setup
 ```bash
