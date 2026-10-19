@@ -26,8 +26,4 @@ streamlit run app.py
 ## Features
 - Sortable medal table (by gold/silver/bronze/total)
 - Choropleth map of medal counts by country
-- Country drill-down: medals-by-sport bar chart + full medallist list
-
-# Interactive Olympics Dashboard
-
-🔗 **Live app:** [interactive-olympics-dashboard.streamlit.app](https://interactive-olympics-dashboard.streamlit.app)
+- Country drill-down: medals-by-sport bar chart + full medallist list 
